@@ -1,5 +1,0 @@
-# Netflix Movies Data
-### About
-
-
-
